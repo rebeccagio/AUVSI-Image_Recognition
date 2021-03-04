@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (20).jpeg</filename>
+	<path>/Users/becca085/Desktop/images/images (20).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>71</ymin>
+			<xmax>130</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>42</ymin>
+			<xmax>248</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
