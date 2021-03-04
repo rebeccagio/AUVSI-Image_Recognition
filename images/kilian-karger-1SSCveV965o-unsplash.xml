@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kilian-karger-1SSCveV965o-unsplash.jpg</filename>
+	<path>/Users/becca085/Desktop/images/kilian-karger-1SSCveV965o-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1407</xmin>
+			<ymin>1434</ymin>
+			<xmax>2267</xmax>
+			<ymax>3346</ymax>
+		</bndbox>
+	</object>
+</annotation>

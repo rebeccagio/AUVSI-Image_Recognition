@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-tim-eiden-2030190.jpg</filename>
+	<path>/Users/becca085/Desktop/images/pexels-tim-eiden-2030190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>972</xmin>
+			<ymin>993</ymin>
+			<xmax>3164</xmax>
+			<ymax>4000</ymax>
+		</bndbox>
+	</object>
+</annotation>

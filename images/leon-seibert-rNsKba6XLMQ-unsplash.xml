@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>leon-seibert-rNsKba6XLMQ-unsplash.jpg</filename>
+	<path>/Users/becca085/Desktop/images/leon-seibert-rNsKba6XLMQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3852</width>
+		<height>5559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1952</xmin>
+			<ymin>2756</ymin>
+			<xmax>2737</xmax>
+			<ymax>4564</ymax>
+		</bndbox>
+	</object>
+</annotation>

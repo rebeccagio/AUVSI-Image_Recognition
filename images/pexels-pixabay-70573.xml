@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-pixabay-70573.jpg</filename>
+	<path>/Users/becca085/Desktop/images/pexels-pixabay-70573.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>'</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1609</xmin>
+			<ymin>153</ymin>
+			<xmax>2432</xmax>
+			<ymax>1783</ymax>
+		</bndbox>
+	</object>
+</annotation>

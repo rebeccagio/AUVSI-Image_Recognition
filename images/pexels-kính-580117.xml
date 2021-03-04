@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-kính-580117.jpg</filename>
+	<path>/Users/becca085/Desktop/images/pexels-kính-580117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1707</xmin>
+			<ymin>893</ymin>
+			<xmax>2291</xmax>
+			<ymax>2328</ymax>
+		</bndbox>
+	</object>
+</annotation>

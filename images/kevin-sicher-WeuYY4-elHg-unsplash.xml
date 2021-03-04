@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kevin-sicher-WeuYY4-elHg-unsplash.jpg</filename>
+	<path>/Users/becca085/Desktop/images/kevin-sicher-WeuYY4-elHg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>1808</ymin>
+			<xmax>3128</xmax>
+			<ymax>5340</ymax>
+		</bndbox>
+	</object>
+</annotation>
