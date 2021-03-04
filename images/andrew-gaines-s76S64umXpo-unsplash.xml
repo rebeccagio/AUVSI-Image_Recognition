@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>andrew-gaines-s76S64umXpo-unsplash.jpg</filename>
+	<path>/Users/becca085/Desktop/images/andrew-gaines-s76S64umXpo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emergent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2207</xmin>
+			<ymin>139</ymin>
+			<xmax>3386</xmax>
+			<ymax>3629</ymax>
+		</bndbox>
+	</object>
+</annotation>
